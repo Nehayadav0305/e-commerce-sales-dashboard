@@ -31,3 +31,7 @@ Transformed raw sales data into a decision-support dashboard for business monito
 Enabled quick identification of sales trends and profit-driving product categories
 
 
+# ER Diagram
+<img width="1152" height="715" alt="Screenshot 2026-05-17 171920" src="https://github.com/user-attachments/assets/3137dae6-93c4-4c15-ae1d-bc2adf3df02a" />
+
+
