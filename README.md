@@ -11,3 +11,23 @@ Analysis of sales across different payment modes
 Geographic insights by city and state
 Time-based trend analysis using order date (month/quarter)
 Interactive visualizations for better business decision-making
+
+
+# KEY FEATURES
+Clean and interactive report design
+Drill-down analysis for date hierarchy
+Regional sales comparison
+Payment mode distribution analysis
+Business performance tracking through dynamic visuals
+
+
+# HIGHLIGHTS
+Built an interactive Microsoft Power BI dashboard to track e-commerce sales performance in one place
+Analyzed key KPIs including total sales, profit, quantity sold, and average order value
+Created dynamic filters and slicers for category, region, and time-based analysis
+Identified top-performing states and customer segments through visual insights
+Used DAX measures to calculate business metrics and improve report interactivity
+Transformed raw sales data into a decision-support dashboard for business monitoring
+Enabled quick identification of sales trends and profit-driving product categories
+
+
